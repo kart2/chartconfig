@@ -1,5 +1,5 @@
 hello-chart:
-  replicaCount: 2
+  replicaCount: 1
     config:
       repositories: |
         - type: helm
