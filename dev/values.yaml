@@ -1,7 +1,1 @@
-hello-chart:
-  replicaCount: 1
-    config:
-      repositories: |
-        - type: helm
-          name: hello-chart
-          url: https://kart2.github.io/kart2-hello-chart
+replicaCount: 2
