@@ -1,0 +1,7 @@
+apiVersion: v2
+name: hello-chart
+version: 0.1.0
+dependencies:
+  - name: hello-chart
+    version: 0.1.0
+    repository: https://kart2.github.io/kart2-hello-chart
